@@ -1,0 +1,5 @@
+Login y passwb interbase(base de datos)
+login: SYSDBA
+passwd: masterkey
+
+Nota: Esta funciona agregandola en el manejador de base de datos y de ahi hacer la conexión para ejecutar el interactivo(donde se crean los querys y las tablas) interbase sql.
